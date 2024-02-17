@@ -6,3 +6,5 @@ Components included
 TODO - put a cross on the component
 2. Pricing Cards
 TODO: Make the middle card bigger
+3. Product Modal
+TODO: make it more contained
