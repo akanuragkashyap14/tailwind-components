@@ -8,3 +8,4 @@ TODO - put a cross on the component
 TODO: Make the middle card bigger
 3. Product Modal
 TODO: make it more contained
+4. Image Gallery
