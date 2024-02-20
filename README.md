@@ -9,3 +9,7 @@ TODO: Make the middle card bigger
 3. Product Modal
 TODO: make it more contained
 4. Image Gallery
+TODO: Maybe give more effect to the images, make the bookmark clickable
+5. Login Modal
+Has diferent fonts
+
